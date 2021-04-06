@@ -1,0 +1,22 @@
+table{
+    border: 2px solid gray;
+    font-family: Verdana;
+    font-size: 13px;
+    border-collapse:collapse;
+}
+td{
+    height: 30px;
+}
+th
+{
+    background-color: #CFB53B;
+    height: 40px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+th, td {
+    border-bottom: 1px solid #ddd;
+}
+tr:hover{
+background-color: #D8D8D8;
+}
